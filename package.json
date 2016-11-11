@@ -1,0 +1,14 @@
+{
+  "name": "twitter-js-amy",
+  "version": "1.0.0",
+  "description": "Twitter Implementaion in node.js express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
